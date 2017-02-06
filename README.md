@@ -28,7 +28,7 @@ Garden.
 Part One: Redesign Concepts (30% of final grade)
 ---------------------------
 
-Part one of this challenge will be due on Monday, February 27th.
+**Part two of this challenge will be due on Monday, February 27th.**
 
 You will be *presenting these in class*.
 
@@ -68,6 +68,8 @@ make the page as visually attractive as possible.
 
 Part Two: CSS Zen Garden Redesign (70% of final grade)
 ---------------------------------
+
+**Part two of this challenge will be due on Friday, March 10th.**
 
 Once you have developed your concept, you will spend another week implementing
 your designs. You must put together a finished redesign of the CSS Zen Garden
